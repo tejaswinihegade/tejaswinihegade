@@ -1,8 +1,8 @@
 
-# Tejaswini Hegade - Transportation Engineering Professional
+# Tejaswini Hegade - Construction Engineering Professional
 
 ## Contact Information:
-- **Phone**: Ó6194329799
+- **Phone**: 6194329799
 - **Email**: [tejaswinihegade12@gmail.com](mailto:tejaswinihegade12@gmail.com)
 - **LinkedIn**: [LinkedIn Profile](#)
 - **GitHub**: [GitHub Profile](#)
@@ -10,7 +10,7 @@
 ---
 
 ## Summary
-I am a transportation engineering professional with a strong background in transportation and construction engineering, having worked as a Project Engineer. My focus is on applying technical expertise and project management skills to foster dynamic, efficient, and high-performing transportation projects. I am currently seeking new opportunities to contribute my skills in an innovative and challenging environment.
+I am a civil engineering professional with a strong background in transportation and construction engineering, having worked as a Project Engineer. My focus is on applying technical expertise and project management skills to foster dynamic, efficient, and high-performing construction projects. I am currently seeking new opportunities to contribute my skills in an innovative and challenging environment.
 
 ---
 
