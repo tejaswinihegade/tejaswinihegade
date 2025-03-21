@@ -1,4 +1,3 @@
-## Hi there 👋
 
 # Tejaswini Hegade - Transportation Engineering Professional
 
