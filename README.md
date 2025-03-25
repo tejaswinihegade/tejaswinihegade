@@ -16,7 +16,7 @@ I am a civil engineering professional with a strong background in transportation
 
 ## Education
 
-### MS in Civil Engineering
+### MS in Civil Engineering ( Construction Engineering )
 - **Institution**: San Diego State University
 - **Duration**: Aug 2023 - May 2025
 - **GPA**: 3.53/4.0
